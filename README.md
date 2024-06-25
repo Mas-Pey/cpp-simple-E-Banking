@@ -19,5 +19,5 @@ Berikut adalah beberapa screenshot dari hasil running program:
 ### Transfer Dana
 ![Transfer](assets/ss2.png)
 
-### Riwayat Transaksi
+### Daftar Rekening
 ![Daftar Rekening](assets/ss3.png)
